@@ -1,0 +1,8 @@
+{
+  "name": "crypto-poc",
+  "version": "2.0.0",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "request": "^2.88.2"
+  }
+}
